@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Proyecto1Testing_run.dir/game.cpp.o CMakeFiles/Proyecto1Testing_run.dir/main.cpp.o CMakeFiles/Proyecto1Testing_run.dir/message.cpp.o CMakeFiles/Proyecto1Testing_run.dir/server.cpp.o -o Proyecto1Testing_run 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProyecto1Testing_lib.a CMakeFiles/Proyecto1Testing_lib.dir/game.cpp.o CMakeFiles/Proyecto1Testing_lib.dir/main.cpp.o CMakeFiles/Proyecto1Testing_lib.dir/message.cpp.o CMakeFiles/Proyecto1Testing_lib.dir/server.cpp.o
+/usr/bin/ranlib libProyecto1Testing_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=gnu++11 -g CMakeFiles/unit-test.dir/tst/serverTest.cpp.o -o unit-test  lib/libgtest.a lib/libgtest_main.a -lrt -lpthread libcodeToTest.a lib/libgtest.a -lpthread 

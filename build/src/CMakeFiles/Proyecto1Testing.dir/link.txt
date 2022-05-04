@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Proyecto1Testing.dir/server.cpp.o -o Proyecto1Testing 

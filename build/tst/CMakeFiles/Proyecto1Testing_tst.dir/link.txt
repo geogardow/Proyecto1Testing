@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Proyecto1Testing_tst.dir/GameTest.cpp.o CMakeFiles/Proyecto1Testing_tst.dir/MockTesting.cpp.o CMakeFiles/Proyecto1Testing_tst.dir/main.cpp.o CMakeFiles/Proyecto1Testing_tst.dir/serverTest.cpp.o -o Proyecto1Testing_tst  ../src/libProyecto1Testing_lib.a ../lib/libgtest.a ../src/libProyecto1Testing_lib.a ../lib/libgmock.a ../lib/libgtest.a -lpthread 

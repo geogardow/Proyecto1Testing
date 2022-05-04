@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="34" failures="0" disabled="0" errors="0" time="0.001" timestamp="2022-05-02T22:47:40.919" name="AllTests">
+  <testsuite name="testingRandomTurn" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="4" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingRandomTurn" />
+  </testsuite>
+  <testsuite name="testingRandomTurnFlagOff" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="16" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingRandomTurnFlagOff" />
+  </testsuite>
+  <testsuite name="testingCardAnalysisFirstCard" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="28" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingCardAnalysisFirstCard" />
+  </testsuite>
+  <testsuite name="testingCardAnalysisSecondCard" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="42" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingCardAnalysisSecondCard" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsMatched" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="57" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsMatched" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsDouble" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="74" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsDouble" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsDoubleHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="91" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsDoubleHIT" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsDoubleSwitchPlayer" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="110" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsDoubleSwitchPlayer" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsBonus" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="127" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsBonus" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsBonusHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="144" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsBonusHIT" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsBonusSwitchPlayer" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="163" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsBonusSwitchPlayer" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsNotSP" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="180" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsNotSP" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSP" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="198" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSP" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsNotSPHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="216" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsNotSPHIT" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSPHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="236" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSPHIT" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSPSwitchPlayer" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="256" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSPSwitchPlayer" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSkullP1" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="273" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSkullP1" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSkullHITP1" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="292" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSkullHITP1" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSkullP2" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="313" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSkullP2" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSkullHITP2" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="332" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSkullHITP2" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsSkullSwitchPlayer" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="353" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsSkullSwitchPlayer" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsNotMatched" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="370" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsNotMatched" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="387" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsHIT" />
+  </testsuite>
+  <testsuite name="testingMatchedCardsNotHIT" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="406" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingMatchedCardsNotHIT" />
+  </testsuite>
+  <testsuite name="testingCheckWinnerP1" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.920">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="425" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.920" classname="testingCheckWinnerP1" />
+  </testsuite>
+  <testsuite name="testingCheckWinnerP2" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="440" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingCheckWinnerP2" />
+  </testsuite>
+  <testsuite name="testingCheckWinnerTie" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="455" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingCheckWinnerTie" />
+  </testsuite>
+  <testsuite name="testingAddPointsP1" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="470" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingAddPointsP1" />
+  </testsuite>
+  <testsuite name="testingAddPointsP2" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="484" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingAddPointsP2" />
+  </testsuite>
+  <testsuite name="testingSubsPointsP1" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="498" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingSubsPointsP1" />
+  </testsuite>
+  <testsuite name="testingSubsPointsP2" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="512" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingSubsPointsP2" />
+  </testsuite>
+  <testsuite name="testingSwitchPlayers" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="526" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingSwitchPlayers" />
+  </testsuite>
+  <testsuite name="testingDoublePoints" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="539" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingDoublePoints" />
+  </testsuite>
+  <testsuite name="testingSwitchPoints" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-05-02T22:47:40.921">
+    <testcase name="server" file="/home/geogardow/Desktop/Proyecto1Testing/tst/serverTest.cpp" line="553" status="run" result="completed" time="0" timestamp="2022-05-02T22:47:40.921" classname="testingSwitchPoints" />
+  </testsuite>
+</testsuites>

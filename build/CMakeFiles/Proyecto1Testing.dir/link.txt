@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=gnu++11 -g CMakeFiles/Proyecto1Testing.dir/tst/mainTest.cpp.o -o Proyecto1Testing  libcodeToTest.a 
